@@ -10,3 +10,5 @@ export const removeAllContacts = async () => {
     return false;
   }
 };
+
+removeAllContacts();

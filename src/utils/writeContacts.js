@@ -12,3 +12,4 @@ export const writeContacts = async (updatedContacts) => {
     return null;
   }
 };
+
